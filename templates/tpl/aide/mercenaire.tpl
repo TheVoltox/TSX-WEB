@@ -32,7 +32,7 @@
 					<br />
 					<div class="row">
 						<div id="GroupA" class="col-md-12 group">
-							<div class="panel panel-wiki">
+							<div class="panel panel-wiki"> 
 								<div class="row">
 									<div class="hidden-xs hidden-sm col-md-1">
 										<span class="panel-heading panel-icone-wiki"><img src="/images/wiki/logo_wiki.png" /></span> 
