@@ -470,6 +470,10 @@
 	                                                        <td>/gps</td>
 								<td>Ouvre un menu qui vous permettra de choisir un lieu de la map, et vous y guidera comme un vrai gps !</td>
                                                         </tr>
+							<tr class="txt">
+	                                                        <td>/stat</td>
+								<td>Cette commande ouvre un menu qui vous permet de voir vos informations sur votre connexion en temps réel.</td>
+                                                        </tr>
 						</table>
 					</div>
 				</div>
